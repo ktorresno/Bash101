@@ -3,7 +3,6 @@
 
 option=0
 backupName=""
-
 echo "Programa Utilidades Postgres"
 read -p "Ingresar Opcion: " option
 read -p "Ingresar el nombre del archivo del respaldo: " backupName
